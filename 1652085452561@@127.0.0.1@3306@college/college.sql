@@ -1,0 +1,1 @@
+SELECT usn,ss_id FROM class;
